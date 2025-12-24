@@ -19,6 +19,3 @@ This project reproduces the potential of mean force (PMF) calculations for potas
 
 ## Results
 The calculated PMF reveals energy wells corresponding to the S1, S3, and S4 binding sites, with a deep minimum at $Z \approx 5.8$ Å (likely the S0 site).
-
-## How to Run
-1. **Prepare Topology**:
